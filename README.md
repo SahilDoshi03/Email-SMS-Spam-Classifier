@@ -19,3 +19,6 @@ Applied and compared various classifiers:-
 11. XGB
 12. Voting Classifier
 13. Stacking Classifier
+
+Best Result:- 
+Using Random Forest (Precision = 1, Accuracy = 0.979691)
